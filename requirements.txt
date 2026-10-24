@@ -1,0 +1,7 @@
+streamlit>=1.33
+streamlit-webrtc>=0.47
+mediapipe>=0.10.9,<=0.10.21
+opencv-python>=4.8
+numpy<2
+notebook
+ipykernel
